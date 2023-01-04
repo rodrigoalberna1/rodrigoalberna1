@@ -1,4 +1,6 @@
-###  Oi! Eu sou o Rodrigo Albernaz  👋
+###  Oi! Eu sou o Rodrigo Albernaz.
+### Atuo como Estagiário em desenvolvimento Full Stack com CSharp e VueJs a 1 ano.
+### Cursando ultimo período de Sistemas da Informação 👋
 
 <!--
 **rodrigoalberna1/rodrigoalberna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
