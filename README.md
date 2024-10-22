@@ -1,6 +1,6 @@
 ###  Oi! Eu sou o Rodrigo Albernaz.
-### Atuo como Estagiário em desenvolvimento Full Stack com CSharp e Angular.
-### Cursando ultimo período de Sistemas da Informação 👋
+### Atuo como Desenvolvedor Full Stack com CSharp e Angular.
+### Técnologo em Sistemas de Informação👋
 
 <!--
 **rodrigoalberna1/rodrigoalberna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
